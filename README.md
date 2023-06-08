@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p>Welcome to my profile! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/> </br> I'm a frontend developer from <b>Moskow, Russia</b>. </p>
+<p>Welcome to my profile! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="25"/> </br> I'm a frontend developer from <b>Moscow, Russia</b>. </p>
 <h3>:hammer_and_wrench: Things I code with:</h3>
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-informational?style=flat-square&logo=javascript&logoColor=323330&color=f0db4f" />
